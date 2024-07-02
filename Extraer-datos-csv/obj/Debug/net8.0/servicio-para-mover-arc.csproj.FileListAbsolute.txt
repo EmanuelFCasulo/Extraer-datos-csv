@@ -1,0 +1,29 @@
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.exe
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.deps.json
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.runtimeconfig.json
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.dll
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.pdb
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.AssemblyInfoInputs.cache
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.AssemblyInfo.cs
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.dll
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\obj\Debug\net8.0\refint\servicio-para-mover-arc.dll
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.pdb
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.genruntimeconfig.cache
+C:\Users\Emanuel.Casulo\Desktop\servicio-para-mover-arc\obj\Debug\net8.0\ref\servicio-para-mover-arc.dll
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.exe
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.deps.json
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.runtimeconfig.json
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.dll
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\bin\Debug\net8.0\servicio-para-mover-arc.pdb
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.AssemblyInfoInputs.cache
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.AssemblyInfo.cs
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.sourcelink.json
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.dll
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\refint\servicio-para-mover-arc.dll
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.pdb
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\servicio-para-mover-arc.genruntimeconfig.cache
+C:\Users\Emanuel.Casulo\Desktop\servicio - copia\servicio-para-mover-arc\obj\Debug\net8.0\ref\servicio-para-mover-arc.dll
